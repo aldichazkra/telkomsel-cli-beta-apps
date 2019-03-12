@@ -9,6 +9,7 @@ On  Windows:
 - Add PHP Library Directory to System Environment
 - run debug.bat
 - command "php run.php" on command prompt
+
 On Android :
 - Install Termux
 - Update Termux with command "pkg update"
